@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anita407.blogspot.com/anitamehta407@gmail.com](https://anita407.blogspot.com/anitamehta407@gmail.com)
 
-- 💬 Ask me about **https://www.linkedin.com/feed/**
+- 💬 Ask me about **https://www.linkedin.com/in/anita-m-71b29313a/**
 
 - 📫 How to reach me **anitamehta407@gmail.com**
 
