@@ -1,13 +1,13 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 (https://Anita-mehta.io)
-<h1 align="center">Hi 👋, I'm Anita-Mehta </h1>
+<h1 align="center">Hi 👋, I'm Anita Mehta </h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anita-mehta&label=Profile%20views&color=0e75b6&style=flat" alt="anita-mehta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anita-mehta" alt="anita-mehta" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin.**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://anita407.blogspot.com/anitamehta407@gmail.com](https://anita407.blogspot.com/anitamehta407@gmail.com)
 
